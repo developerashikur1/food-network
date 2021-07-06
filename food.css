@@ -83,7 +83,7 @@ p{
 }
 
 #id-2{
-    color: orange;
+    color: rgb(255, 123, 0);
 }
 
 #id-3{
@@ -215,4 +215,18 @@ p{
 
 #map{
     box-shadow: 0 0 15px rgba(255, 166, 0, 0.507);
+}
+
+
+/*   footer   */
+footer{
+    text-align: center;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 150px;
+    margin: 0; 
+}
+
+#footer-food{
+    color: rgb(255, 115, 0);
 }
